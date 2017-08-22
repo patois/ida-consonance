@@ -23,7 +23,7 @@ c0c0c0	 //Line prefix
 f3c5ff	 //Extra line
 ffaaff	 //Alternative operand
 00d2ff	 //Hidden name
-ffff00	 //Library function name
+ffeb06	 //Library function name
 0080ff	 //Local variable name
 00d2ff	 //Dummy code name
 00d69d	 //Assembler directive
