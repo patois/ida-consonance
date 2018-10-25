@@ -42,16 +42,16 @@ ffaaff	 //Regular unknown name
 000000	 //Max color number
 2d2d2d	 //Line prefix: library function
 32ade1	 //Line prefix: regular function
-f1f10c	 //Line prefix: instruction
+888806	 //Line prefix: instruction
 666666	 //Line prefix: data
 0000aa	 //Line prefix: unexplored
 617c7c	 //Line prefix: externs
 009d9d	 //Line prefix: current item
-ff55ff	 //Line prefix: current line
+9e349e	 //Line prefix: current line
 000000	 //Punctuation
 00aaff	 //Opcode bytes
 000000	 //Manual operand
-f3c5ff	 //Error
+196d19	 //Error
 [NAVBAR]
 ffaa00	 //Library function
 00aaff	 //Regular function
@@ -94,11 +94,11 @@ d1d1d1	 //Current title
 003900	 //Highlight color 1
 00006d	 //Highlight color 2
 0000ff	 //Foreign node
-cb4300	 //Normal edge
-009100	 //Yes edge
-0000bc	 //No edge
+b81800	 //Normal edge
+1ac700	 //Yes edge
+1815e1	 //No edge
 ffaaaa	 //Highlighted edge
-008ec6	 //Current edge
+00b7ff	 //Current edge
 [MISC]
 212121	 //Message text
 d4d4d4	 //Message background
