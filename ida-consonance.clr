@@ -68,7 +68,7 @@ ff00ff	 //External symbol
 ac8e41	 //Current IP
 0f0fbf	 //Current IP (+ enabled breakpoint)
 408020	 //Current IP (+ disabled breakpoint)
-383831	 //Default background
+383930	 //Default background
 0a0a88	 //Address (+ enabled breakpoint)
 005600	 //Address (+ disabled breakpoint)
 004080	 //Current IP (+ unavailable breakpoint)
@@ -94,9 +94,9 @@ d1d1d1	 //Current title
 003900	 //Highlight color 1
 00006d	 //Highlight color 2
 0000ff	 //Foreign node
-b81800	 //Normal edge
-1ac700	 //Yes edge
-1815e1	 //No edge
+000000	 //Normal edge
+005500	 //Yes edge
+0000aa	 //No edge
 ffaaaa	 //Highlighted edge
 00b7ff	 //Current edge
 [MISC]
