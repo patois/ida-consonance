@@ -1,6 +1,8 @@
 idaConsonance
 =============
 
+![idaConsonance](/screenshot.png?raw=true "idaConsonance")
+
 Consonance, a dark color theme for IDA.
 
 Forked and updated for better readability of disassembly, graph and decompiler views.
