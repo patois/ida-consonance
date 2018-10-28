@@ -51,7 +51,7 @@ ffaaff	 //Regular unknown name
 000000	 //Punctuation
 00aaff	 //Opcode bytes
 000000	 //Manual operand
-196d19	 //Error
+3c6d42	 //Error
 [NAVBAR]
 ffaa00	 //Library function
 00aaff	 //Regular function
@@ -106,7 +106,7 @@ d4d4d4	 //Message background
 0080ff	 //Unsaved changes
 [OTHER]
 ad802c	 //Highlight color
-3a4041	 //Hint color
+473d39	 //Hint color
 [SYNTAX]
 ff0000	0	0	 //Keyword 1
 800080	0	0	 //Keyword 2
