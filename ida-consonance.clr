@@ -9,7 +9,7 @@ b9ebeb	 //Dummy Data Name
 b9ebeb	 //Regular Data Name
 ececec	 //Demangled Name
 c0c0c0	 //Punctuation
-00d269	 //Char constant in instruction
+d8e81f	 //Char constant in instruction
 00ff00	 //String constant in instruction
 3250d2	 //Numeric constant in instruction
 4646ff	 //Void operand
@@ -24,7 +24,7 @@ f3c5ff	 //Extra line
 ffaaff	 //Alternative operand
 00d2ff	 //Hidden name
 f1f10c	 //Library function name
-0080ff	 //Local variable name
+00be3f	 //Local variable name
 00d2ff	 //Dummy code name
 00d69d	 //Assembler directive
 7e07df	 //Macro
